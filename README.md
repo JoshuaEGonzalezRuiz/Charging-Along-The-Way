@@ -12,7 +12,7 @@ Build instructions:
 
 3) Find the 'aar' file and place it in the 'lib' folder inside this project.
 
-4) Start an emulator or simulator and execute `flutter run` from the app's directory - or run the app from within your IDE.
+4) Start an emulator and run this project.
 
 More information can be found in the [_Get Started_](https://developer.here.com/documentation/android-sdk-navigate/dev_guide/index.html) section of the _Developer's Guide_.
 
